@@ -1,0 +1,17 @@
+Go to this site:			 https://github.com/samwenda
+Look for: 			        Qualitative-Data-Analysis-Time-Use
+
+Task1
+1. Download the R codes into yor R editor
+2. Download the 2 data set main_data.txt and t03.txt in a folder
+3. Create your working folder and read the datasets according to the instructions in the R code
+
+Task 2
+1. Find the most common words in the data as described in the script (provide a table and the frequencies)
+2. Provide the wordplot and the barplot
+
+NB: Present your results in Latex (1) as a PDF (2) uding Latex beamer, as a PDF powerpoint
+
+This can still be downloaded from :    https://github.com/samwenda
+
+Ngugi Mwenda, SMS
